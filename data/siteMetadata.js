@@ -4,6 +4,7 @@ const siteMetadata = {
   author: 'JeriYuan',
   headerTitle: '',
   description: 'Blog For Personal Development Experience Record And Sharing.',
+  welcome: 'Welcome to my blog.',
   language: 'en-us',
   theme: 'system', // system, dark or light
   siteUrl: 'https://blog.yuanxf.site',
